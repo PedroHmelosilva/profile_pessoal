@@ -7,8 +7,7 @@ const ProjectsContainer = () => {
         <a href="https://github.com/PedroHmelosilva?tab=repositories" className="btn">
             Ver projetos no meu Github
         </a>
-    </section>;{ 
-    }
+    </section>;
 };
 
 export default ProjectsContainer;
