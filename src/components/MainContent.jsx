@@ -5,7 +5,7 @@ import ProjectsContainer from './ProjectsContainer';
 
 const MainComponent = () => {
     return <main id="main-content">
-        <h1>Pedro Melo</h1>
+        <h1>Pedro Henrique Melo e Silva</h1>
         <AboutContainer />
         <TecnologiesContainer />
         <ProjectsContainer />

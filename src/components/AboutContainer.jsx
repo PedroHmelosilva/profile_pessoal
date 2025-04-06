@@ -1,11 +1,12 @@
 const AboutContainer = () => {
     return <section className="gradient-border">
         <h2>Sobre</h2>
-        <p>
-            Olá, meu nome é Pedro Henrique Melo e Silva, Sou estudante da escola técnica Etec Vasco Antônio Venchiarutti, e estou fazendo o curso de Desenvolvimento de Sistemas integrado ao ensino médio.
+        <p style={{ fontSize: '1.2em', lineHeight: 1.6 }}>
+            Olá, meu nome é Pedro Henrique Melo e Silva, estou atualmente cursando Ciência de Dados na Fatec Jundiaí. <br />
+            Este é o meu site que comecei a desenvolver no começo do meu curso técnico de ADS na EtecVAV, usando ReactJS e SASS como as principais linguagens para criar esta página. <br />
         </p>
-        <p>
-            Tenho apenas 15 anos porém já estou começando a desenvolver o meu portifólio, isso para juntar tudo que eu já fiz e inserir em apenas uma página.
+        <p style={{ fontSize: '1.2em', lineHeight: 1.6 }}>
+            Abaixo estarão as linguagens que atualmente estou trabalhando e estudando, buscando sempre me aperfeiçoar.
         </p>
         <br />
     </section>;{ 

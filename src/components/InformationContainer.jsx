@@ -8,7 +8,7 @@ const InformationContainer = () => {
             <AiFillPhone id="phone-icon" />
             <div>
                 <h3>Telefone</h3>
-                <p>+55 (11) 93920-1601</p>
+                <p>+55 (11) 98635-0290</p>
             </div>
         </div>
 
@@ -16,7 +16,7 @@ const InformationContainer = () => {
             <AiOutlineMail id="email-icon" />
             <div>
                 <h3>E-mail</h3>
-                <p>hmelosilvapedro@gmail.com</p>
+                <p>pedrohmeloesilva@gmail.com</p>
             </div>
         </div>
 
@@ -24,7 +24,7 @@ const InformationContainer = () => {
             <AiFillBook id="book-icon" />
             <div>
                 <h3>Instituição</h3>
-                <p>Etec Vasco Antônio Venchiarutti</p>
+                <p>Fatec Jundiaí</p>
             </div>
         </div>
 
